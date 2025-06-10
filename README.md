@@ -1,2 +1,14 @@
-# Power-Bi-Analysis
-This repository contains a Power BI visualization project focused on profit analysis for Dataleum. The dashboard was built using data from an Excel dataset and offers a comprehensive overview of the company’s profitability across various dimensions.
+# Dataleum Profit Analysis Dashboard
+## Project Overview
+The goal of this project is to provide an interactive, visual analysis that supports strategic decision-making by identifying the key drivers of profit for Dataleum.
+## Key insights Visualized:
+	•Top-performing products by total profit
+ 
+	•	Most profitable promotions and sales campaigns
+ 
+	•	Sales channels analysis (Online, In-Store, Reseller, etc.) with profit contribution percentages
+ 
+	•	Yearly profit trends
+ 
+	•	Additional drill-downs for deeper insight into what drives profitability
+
