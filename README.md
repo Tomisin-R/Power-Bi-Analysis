@@ -2,7 +2,7 @@
 ## Project Overview
 The goal of this project is to provide an interactive, visual analysis that supports strategic decision-making by identifying the key drivers of profit for Dataleum.
 ## Key insights Visualized:
-	•Top-performing products by total profit
+	•       Top-performing products by total profit
  
 	•	Most profitable promotions and sales campaigns
  
