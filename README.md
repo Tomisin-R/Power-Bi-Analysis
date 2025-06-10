@@ -1,8 +1,6 @@
 # Dataleum Profit Analysis 
 ## Project Overview
 The goal of this project is to provide an interactive, visual analysis that supports strategic decision-making by identifying the key drivers of profit for Dataleum
-## Dataset used
-- <a href="https://github.com/Tomisin-R/portfolioproject/blob/main/state%20breakdown.csv">Dataset</a>
 ## Key insights Visualized:
 	•       Top-performing products by total profit
  
