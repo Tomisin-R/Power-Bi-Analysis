@@ -11,4 +11,9 @@ The goal of this project is to provide an interactive, visual analysis that supp
 	•	Yearly profit trends
  
 	•	Additional drill-downs for deeper insight into what drives profitability
+ ## Tools used
+ 	•       Power BI: For creating interactive dashboards and insightful visuals
+  
+	•	Microsoft Excel: As the source dataset
+
 
